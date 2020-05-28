@@ -1,0 +1,10 @@
+{
+  "realm": "teste",
+  "auth-server-url": "http://localhost:8889/auth/",
+  "ssl-required": "external",
+  "resource": "teste-keycloak",
+  "credentials": {
+    "secret": "4a761c97-5f4a-4641-8233-ffae5b9d3c75"
+  },
+  "confidential-port": 0
+}
